@@ -1,0 +1,22 @@
+const people = ['JoHn', 'ChrISTiana', 'anThoNY', 'MARia', 'jaMeS', 'MIChaEl', 'jeNNIFeR'];
+
+function changerNom {
+    return people.charAt(0).toUpperCase() + people.slice(1).toLowerCase();
+}
+
+const people = ['JoHn', 'ChrISTiana', 'anThoNY', 'MARia', 'jaMeS', 'MIChaEl', 'jeNNIFeR'];
+const changerNom = people.map;
+
+console.log(changerNom) ['John', 'Christiana', 'Anthony', 'Maria', 'James', 'Michael', 'Jennifer']
+
+function superieur {
+
+const tableau = []
+
+function Majuscule {
+return people.charAT(.).toUpperCase()
+}
+
+}
+
+Conssole.log (changerNom)
